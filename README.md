@@ -1,0 +1,2 @@
+# EditorConfigDemo
+Demonstrate .editorconfig customization
