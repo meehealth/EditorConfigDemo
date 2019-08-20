@@ -1,2 +1,5 @@
 # EditorConfigDemo
-Demonstrate .editorconfig customization
+
+- Demonstrate .editorconfig customization
+- Test how .editorconfig provides guide when we create or edit code
+
